@@ -1,0 +1,16 @@
+my test file
+
+new additions
+
+test for stash
+
+<<<<<<< HEAD
+test for branch
+
+test for anil branch update2
+
+one more resolve test
+=======
+
+new commit from a different repo
+>>>>>>> 492f90512205443168dd0a80430bbe2d349d7613
